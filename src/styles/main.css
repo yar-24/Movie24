@@ -1,0 +1,16 @@
+body{
+  background-color: #181a1b;
+  color: white;
+}
+
+
+.bg{
+  position: relative;
+  height: 100vh;
+  background-image: url("/src/images/Poster.png");
+  background-repeat: no-repeat, repeat;
+}
+
+.container {
+  padding: 16px;
+}
